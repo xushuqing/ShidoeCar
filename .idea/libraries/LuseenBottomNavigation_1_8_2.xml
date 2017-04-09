@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="LuseenBottomNavigation-1.8.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/0449b75c6cab321a8056ee3937cdcf3610a9ba2e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/0449b75c6cab321a8056ee3937cdcf3610a9ba2e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.armcha/LuseenBottomNavigation/1.8.2/3d6951ff7762ffb8eb696cb268a3109f66ca5ac5/LuseenBottomNavigation-1.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
